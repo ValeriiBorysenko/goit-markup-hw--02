@@ -10,6 +10,7 @@ header {
 
 
 /* Main  */
+
 .logo {
     text-decoration: none;
     color: #2E2F42;
@@ -66,17 +67,50 @@ header {
 
 
 
-.advantaches-list {
+.advantages-list {
     list-style: none;
+}
+
+.advantages-item {
+
+}
+
+.advantages-item-title {
+
+}
+
+.advantages-item-text {
+
+}
+
+.second-title {
+
 }
 
 .what-are-we-doing-list {
     list-style: none;
 }
 
+.what-are-we-doing-item {
+
+}
+
 .our-team-list {
     list-style: none;
 }
+
+.our-team-item {
+
+}
+
+.our-team-item-title {
+
+}
+
+.our-team-item-text {
+
+}
+
 
 /* portfolio */
 
